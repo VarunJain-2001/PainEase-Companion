@@ -1,0 +1,12 @@
+Instructions:
+
+1. Open the Jupyter Notebook file named "live.ipynb" in your Jupyter Notebook environment.
+
+2. Run all the functions step by step, keeping in mind that the order of execution may vary based on your specific needs and project requirements.
+
+3. The following functions are the core components of this project:
+	a. calculate_angle(a, b, c): This function is used to calculate the angle between different joint points and poses. It plays a crucial role in understanding body movements and postures.
+	b. mp_pose.Pose: You will use this function to declare the MediaPipe Pose model, which is essential for estimating different poses from the video input.
+	c. output_video.release: This function is employed to convert the generated output into a video format, which will be stored in the same directory as your project.
+
+By following these instructions and running the functions as needed, you will effectively utilize artificial intelligence and machine learning to achieve a pain-free life with the assistance of your AI Therapist.
